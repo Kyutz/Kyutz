@@ -1,7 +1,6 @@
 # Hi, I’m @Kyutz! 👋
 
 🎓 B.S. in Computer Science from Universidade Federal de Lavras (UFLA).  
-💻 Software Engineer focused on **Backend Development**, **Data**, and **AI/LLM integration**.
 
 ---
 
